@@ -64,7 +64,7 @@ Running the script without any arguments will just give you your current and max
 
 There are also options in the script that you can change:
 
-fade_step = 30
+fade_step = 20
 	Change this to make the fading smoother or less resource intensive
 	Warning: when making very rapid calls (i.e. faster than you can press), I don't recommend going lower than this
 	0 = smoothest, 100 = none
