@@ -39,7 +39,7 @@ Comments from the original creator:
  *	 -s, --set=INT | Set
  *	 -v, --verbose | Produce verbose output
  *	 -?, --help		| Give this help list
- *			 --usage	 | Give a short usage message
+ *	     --usage	 | Give a short usage message
  *	 -V, --version | Print program version
  * 
  * The program will report the maximum permitted brightness and the 
